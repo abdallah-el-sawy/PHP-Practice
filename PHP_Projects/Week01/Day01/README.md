@@ -22,7 +22,7 @@ The goal of this repo is to document my daily progress and build a solid foundat
 * Using constants
 * Understanding variable variables
 
-### **🔹 Data Types**
+### **🔹 Data Types** 
 
 Covered all main PHP data types with examples:
 
