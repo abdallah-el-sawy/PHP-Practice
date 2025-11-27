@@ -66,8 +66,6 @@ Each file focuses on one topic for clean organization:
 ---
 
 ## 📌 Next Steps
-
-I will continue updating this repository as I complete more days from the course.
-Stay tuned for Week 01 Day 02 and beyond!
+Day 01 in finished Day 02 is coming soon 
 
 
