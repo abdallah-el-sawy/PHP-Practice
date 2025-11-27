@@ -54,7 +54,4 @@ Understanding variable scope (local, global) and how static variables work insid
 
 Folder containing examples of how `include` and `require` work, and the difference between them when loading external files.
 
----
-
-If you want, I can format it in markdown style exactly like your repo’s style, or add emojis/tables for a more modern README.
 
