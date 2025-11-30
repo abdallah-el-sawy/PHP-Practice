@@ -3,7 +3,7 @@
 Welcome to my PHP learning repository!
 This repo contains all my **practice files**, **notes**, **examples**, and **tasks** while studying a complete **PHP Course**.
 The purpose of this repository is to document my progress and build a solid backend foundation.
-
+ 
 ---
 
 ## 🚀 About This Repository
