@@ -1,84 +1,98 @@
-# 📘 PHP Course – Practice & Progress
+# 📘 PHP Course – Day 1
 
-Welcome to my PHP learning repository!
-This repo contains all my **practice files**, **notes**, **examples**, and **tasks** while studying a complete **PHP Course**.
-The purpose of this repository is to document my progress and build a solid backend foundation.
- 
----
+**Basics & Data Types in PHP**
 
-## 🚀 About This Repository
-
-This project includes all the topics I study in PHP, starting from absolute basics all the way to working with forms, sessions, and OOP.
-Every file here represents something I learned or practiced during the course.
+This repository contains my notes and practice files from **Day 1** of learning PHP.
+The focus of this day was understanding the core basics of the language and getting familiar with different data types.
 
 ---
 
-## 📚 Topics Covered
+## 📂 Files Overview
 
-* ✔️ PHP Basics (syntax, tags, echo, comments)
-* ✔️ Variables & Data Types
-* ✔️ Operators
-* ✔️ Control Flow (if, else, switch)
-* ✔️ Loops (for, while, foreach)
-* ✔️ Functions (arguments, return, built-in functions)
-* ✔️ Arrays (indexed, associative, multidimensional)
-* ✔️ Superglobals (`$_GET`, `$_POST`, `$_SERVER`, etc.)
-* ✔️ Working with Forms
-* ✔️ Sessions & Cookies
-* ✔️ File System Handling
-* ✔️ Error Handling
-* ✔️ PHP OOP (classes, objects, inheritance, traits, interfaces)
-* ✔️ Practical mini-projects & exercises
+### 1. **Basics.php**
+
+* First PHP script
+* Using `echo`
+* Basic output
+* Introduction to PHP syntax
 
 ---
 
-## 📂 Project Structure
+### 2. **Constants&Variable_Variable.php**
 
-```
-/basics
-/operators
-/conditions
-/loops
-/functions
-/arrays
-/forms
-/sessions
-/file-system
-/oop
-/projects
-README.md
-```
-
-Each folder contains practice files for a specific topic.
+* What variables are and how to declare them
+* What constants are and how they differ from variables
+* Examples using both
 
 ---
 
-## 🎯 Purpose of This Repo
+### 3. **BooleanDataType.php**
 
-* Track my learning journey
-* Practice backend development
-* Build a strong foundation before moving to Laravel
-* Keep my code organized and accessible
-
----
-
-## 🛠️ Technologies Used
-
-* PHP
-* HTML (for form examples)
-* Git & GitHub
+* Understanding Boolean values
+* `true` and `false`
+* Common use cases in conditions
 
 ---
 
-## 🔄 Updates
+### 4. **IntegerDataType.php**
 
-This repo will be updated continuously as I progress in the course and learn new topics.
+* Integer numbers in PHP
+* Basic arithmetic
+* Declaring and printing integers
 
 ---
 
-## 📬 Contact
+### 5. **FloatDataType.php**
 
-If you'd like to connect or discuss coding:
-* **Email:** *abdallahelsawy706@gmail.com*
+* Floating-point numbers
+* Decimal values
+* Precision notes
+* Simple examples
 
+---
+
+### 6. **StringDataType.php**
+
+* Creating strings
+* Difference between single quotes `' '` and double quotes `" "`
+* String concatenation
+
+---
+
+### 7. **ArrayDataType.php**
+
+* Introduction to arrays
+* Indexed and associative arrays
+* Accessing and printing array elements
+
+---
+
+### 8. **DataTypes&TypeCasting.php**
+
+* Overview of PHP data types
+* Casting values from one type to another
+* Practical examples
+
+---
+
+### 9. **NullDataType.php**
+
+* What `null` means in PHP
+* Difference between null and undefined variables
+* Where null is used
+
+---
+
+### 10. **README.md**
+
+This file — a summary of everything covered in Day 1.
+
+---
+
+## 🎯 Day 1 Summary
+
+* Learned how to write and run basic PHP scripts
+* Understood variables, constants, and core data types
+* Practiced using strings, numbers, arrays, booleans, and null
+* Prepared for upcoming topics like control flow and functions
 
