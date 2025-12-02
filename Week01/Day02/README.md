@@ -1,84 +1,126 @@
-# 📘 PHP Course – Practice & Progress
+# 📘 PHP Course – Day 2
 
-Welcome to my PHP learning repository!
-This repo contains all my **practice files**, **notes**, **examples**, and **tasks** while studying a complete **PHP Course**.
-The purpose of this repository is to document my progress and build a solid backend foundation.
- 
----
+**Operators, Conditionals, Loops & Functions**
 
-## 🚀 About This Repository
-
-This project includes all the topics I study in PHP, starting from absolute basics all the way to working with forms, sessions, and OOP.
-Every file here represents something I learned or practiced during the course.
+This repository contains my notes and practice files from **Day 2** of learning PHP.
+Today’s focus was understanding how PHP makes decisions, repeats actions, and organizes reusable code using functions.
 
 ---
 
-## 📚 Topics Covered
+## 📂 Files Overview
 
-* ✔️ PHP Basics (syntax, tags, echo, comments)
-* ✔️ Variables & Data Types
-* ✔️ Operators
-* ✔️ Control Flow (if, else, switch)
-* ✔️ Loops (for, while, foreach)
-* ✔️ Functions (arguments, return, built-in functions)
-* ✔️ Arrays (indexed, associative, multidimensional)
-* ✔️ Superglobals (`$_GET`, `$_POST`, `$_SERVER`, etc.)
-* ✔️ Working with Forms
-* ✔️ Sessions & Cookies
-* ✔️ File System Handling
-* ✔️ Error Handling
-* ✔️ PHP OOP (classes, objects, inheritance, traits, interfaces)
-* ✔️ Practical mini-projects & exercises
+### 1. **Operators.php**
+
+* Overview of PHP operators
+* Arithmetic, comparison, and logical operators
+* Basic usage with examples
 
 ---
 
-## 📂 Project Structure
+### 2. **OperatorPrecedence&Associativity.php**
 
-```
-/basics
-/operators
-/conditions
-/loops
-/functions
-/arrays
-/forms
-/sessions
-/file-system
-/oop
-/projects
-README.md
-```
-
-Each folder contains practice files for a specific topic.
+* How PHP decides which operator runs first
+* Order of operations
+* Associativity rules
+* Practical examples to show the difference
 
 ---
 
-## 🎯 Purpose of This Repo
+### 3. **ConditionalStatements.php**
 
-* Track my learning journey
-* Practice backend development
-* Build a strong foundation before moving to Laravel
-* Keep my code organized and accessible
-
----
-
-## 🛠️ Technologies Used
-
-* PHP
-* HTML (for form examples)
-* Git & GitHub
+* Making decisions in code
+* `if`, `else`, `elseif`
+* Nested conditions
+* Real-life examples
 
 ---
 
-## 🔄 Updates
+### 4. **Switch-Statement.php**
 
-This repo will be updated continuously as I progress in the course and learn new topics.
+* Using `switch` for multiple conditions
+* `case`, `default`
+* When to use switch instead of if-else
 
 ---
 
-## 📬 Contact
+### 5. **SwitchvsMatch.php**
 
-If you'd like to connect or discuss coding:
-* **Email:** *abdallahelsawy706@gmail.com*
+* Difference between `switch` and the new `match` expression
+* Match syntax
+* Advantages of `match` (strict comparison, cleaner syntax)
 
+---
 
+### 6. **Loops-break&continue.php**
+
+* Loop types: `for`, `while`, `do...while`, `foreach`
+* How loops work
+* Using `break` to exit a loop
+* Using `continue` to skip an iteration
+
+---
+
+### 7. **Return-Declare-Goto.php**
+
+* How `return` works inside functions or scripts
+* The `declare` directive
+* `goto` statement (rarely used)
+
+---
+
+### 8. **Inroduction-to-Functions.php**
+
+* What functions are
+* Why we use them
+* How to define and call a function
+* Parameters and return values
+
+---
+
+### 9. **TypesOfFunction.php**
+
+* Built-in vs user-defined functions
+* Functions with parameters
+* Functions without parameters
+* Functions with return values
+* Void functions
+
+---
+
+### 10. **Functions.php**
+
+* More advanced function examples
+* Argument handling
+* Default parameter values
+* Basic function practices
+
+---
+
+### 11. **VariableScope-StaticVariable.php**
+
+* Local vs global variables
+* Scope rules in PHP
+* Using `global` keyword
+* How `static` variables work inside functions
+
+---
+
+### 12. **README.md**
+
+This file — the full summary of Day 2 lessons.
+
+---
+
+## 🎯 Day 2 Summary
+
+* Learned all core PHP operators and their order of execution
+* Understood how PHP makes decisions using if-statements and switch
+* Practiced loops and controlling their behavior with break/continue
+* Learned the foundation of functions and how to use them effectively
+* Understood variable scope and static behavior inside functions
+
+---
+
+## 🚀 Next Step
+
+Day 3 will move toward **arrays, string manipulation, built-in functions, and more advanced logic**.
