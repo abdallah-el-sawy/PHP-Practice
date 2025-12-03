@@ -10,7 +10,7 @@ The purpose of this repository is to document my progress and build a solid back
 
 This project includes all the topics I study in PHP, starting from absolute basics all the way to working with forms, sessions, and OOP.
 Every file here represents something I learned or practiced during the course.
-
+ 
 ---
 
 ## 📚 Topics Covered
